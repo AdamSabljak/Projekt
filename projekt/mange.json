@@ -1,0 +1,32 @@
+[
+    {
+        "name":"JoJo's Bizarre Adventure",
+        "link": "http://localhost/projekt/jjba.php"
+    },
+    {
+        "name":"One Piece",
+        "link": "http://localhost/projekt/one.php"
+    },
+    {
+        "name":"Chainsaw Man",
+        "link": "http://localhost/projekt/csm.php"
+    },
+    {
+        "name":"Vagabond",
+        "link": "http://localhost/projekt/vag.php"
+    },
+    {
+        "name":"Berserk",
+        "link": "http://localhost/projekt/berk.php"
+    },
+    {
+        "name":"Vinland Saga",
+        "link": "http://localhost/projekt/vin.php"
+    },
+    {
+        "name":"Jujutsu Kaisen",
+        "link": "http://localhost/projekt/juju.php"
+    }
+]
+
+
